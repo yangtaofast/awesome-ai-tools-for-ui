@@ -82,6 +82,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Brik](https://brik.space/?utm_source=awesome-ai-tools-for-ui) - Build your own AI-powered design tools for animations, 2D and 3D visuals, text effects, and images, then remix, share, export, and embed them.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
+- [Massvai](https://massvai.com) - Generates full-stack Next.js apps and their UI from a prompt, with live preview and one-click Vercel deploy.
 
 
 ## MCP Servers & Plugins
