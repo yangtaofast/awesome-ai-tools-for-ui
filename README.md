@@ -21,6 +21,7 @@
 
 </div>
 
+- [Massvai](https://massvai.com) - Generates full-stack Next.js apps and their UI from a prompt, with live preview and one-click Vercel deploy.
 # Awesome AI Tools for UI
 
 ⭐️ = Editor's Choice
